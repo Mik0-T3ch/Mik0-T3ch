@@ -43,4 +43,5 @@
 
 [![Mik0-T3ch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mik0-T3ch&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ffff&icon_color=00ff00&text_color=ffffff&hide=issues)](https://github.com/Mik0-T3ch)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Mik0-T3ch&layout=compact&theme=blueberry&hide_border=true&border_radius=12)](https://github.com/Mik0-T3ch)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIk0-T3ch&layout=compact&theme=blueberry&hide_border=true&border_radius=12)](https://github.com/MIk0-T3ch)
+
