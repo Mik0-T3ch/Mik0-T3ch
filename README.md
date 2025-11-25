@@ -11,18 +11,21 @@
 ## 🛠️ Stack Tecnológico
 
 ### 🤖 Machine Learning
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NN:Neural Networks](https://img.shields.io/badge/NN-Neural%20Networks-red)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white)
+
 ### 💻 Frontend basico
 
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🔐 Ciberseguridad
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-ED1C24?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?logo=wireshark)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000000?style=flat-square)
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
