@@ -41,8 +41,18 @@
 
 ## 📊 Estadísticas GitHub
 
-[![Mik0-T3ch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mik0-T3ch&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ffff&icon_color=00ff00&text_color=ffffff&hide=issues)](https://github.com/Mik0-T3ch)
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaizanhaidar&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
 
-![GitHub top languages](https://img.shields.io/github/languages/top/mik0-t3ch?color=blue&style=flat-square)
-![GitHub repo stars](https://img.shields.io/github/stars/mik0-t3ch?style=social)
-![GitHub followers](https://img.shields.io/github/followers/mik0-t3ch?label=Followers&style=social)
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfaizanhaidar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadfaizanhaidar&theme=juicyfresh&no-bg=true" />
