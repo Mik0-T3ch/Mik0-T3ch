@@ -41,4 +41,5 @@
 
 ## 📊 Estadísticas GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mik0-T3ch&show_icons=true&theme=transparent)
+[![Mik0-T3ch's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Mik0-T3ch&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Mik0-T3ch)
+[![Mik0-T3ch's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Mik0-T3ch&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Mik0-T3ch)
