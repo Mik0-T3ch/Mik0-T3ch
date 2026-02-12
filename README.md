@@ -26,10 +26,24 @@
     </a>&nbsp;
   </p>
 
-### 💻 Frontend basico
-
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  <h3>💻 &nbsp;Frontend básico</h3>
+  <p>
+    <a href="https://github.com/Mik0-T3ch" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40">
+    </a>&nbsp;
+    <a href="https://github.com/Mik0-T3ch" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40">
+    </a>&nbsp;
+    <a href="https://github.com/Mik0-T3ch" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40">
+    </a>&nbsp;
+    <a href="https://github.com/Mik0-T3ch" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40">
+    </a>&nbsp;
+    <a href="https://github.com/Mik0-T3ch" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40">
+    </a>
+  </p>
 
 ### 🔐 Ciberseguridad
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
