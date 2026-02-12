@@ -29,6 +29,13 @@
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000000?style=flat-square)
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mik0-T3ch&theme=high-contrast" />
+</p>
+
 ## 📚 Actualmente Aprendiendo
 - 🧠 Modelos Transformer (BERT, GPT)
 - 🛡️ Técnicas de Hardening Web
