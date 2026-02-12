@@ -10,13 +10,21 @@
 
 ## 🛠️ Stack Tecnológico
 
-### 🤖 Machine Learning
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NN:Neural Networks](https://img.shields.io/badge/NN-Neural%20Networks-red)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white)
+ <h3>📚 &nbsp;Machine Learning</h3>
+  <p>
+    <a href="https://github.com/Mik0-T3ch/Neural_Networks" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
+    </a>&nbsp;
+    <a href="https://github.com/Mik0-T3ch/Neural_Networks" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40">
+    </a>&nbsp;
+    <a href="https://github.com/Mik0-T3ch/Neural_Networks" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40">
+    </a>&nbsp;
+    <a href="https://github.com/Mik0-T3ch/Neural_Networks" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40">
+    </a>&nbsp;
+  </p>
 
 ### 💻 Frontend basico
 
