@@ -58,6 +58,23 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mik0-T3ch&theme=high-contrast" />
 </p>
 
+<div align="center">
+
+  <!-- Repos per Language -->
+  <picture>
+    <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mik0-T3ch&theme=dracula" media="(prefers-color-scheme: dark)">
+    <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mik0-T3ch&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mik0-T3ch&theme=github_dark" alt="Repos per Language">
+  </picture>
+
+  <!-- Most Committed Language -->
+  <picture>
+    <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mik0-T3ch&theme=dracula" media="(prefers-color-scheme: dark)">
+    <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mik0-T3ch&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mik0-T3ch&theme=github_dark" alt="Most Commit Language">
+  </picture>
+
+</di
 ## 📚 Actualmente Aprendiendo
 - 🧠 Modelos Transformer (BERT, GPT)
 - 🛡️ Técnicas de Hardening Web
