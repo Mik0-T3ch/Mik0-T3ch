@@ -74,11 +74,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mik0-T3ch&theme=github_dark" alt="Most Commit Language">
   </picture>
 
-</di
-## 📚 Actualmente Aprendiendo
-- 🧠 Modelos Transformer (BERT, GPT)
-- 🛡️ Técnicas de Hardening Web
-- 📊 Visualización de datos con ML
+</div>
 
 ## ⚡ Proyectos Destacados
 1. **Detector de phishing con ML** - Clasificador de URLs sospechosas
