@@ -1,5 +1,3 @@
-# 👋 ¡Hola! Soy Christopher Martinez
-
 🚀 **Programador Junior** | 💻 **Frontend Developer** | 🧠 **Aprendiz de Machine Learning**  
 🔐 **Entusiasta de Ciberseguridad** con habilidades en Ethical Hacking
 
