@@ -8,47 +8,52 @@
 
 ## 🛠️ Stack Tecnológico
 
- <h3>📚 &nbsp;Machine Learning</h3>
-  <p>
-    <a href="https://github.com/Mik0-T3ch/Neural_Networks" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
-    </a>&nbsp;
-    <a href="https://github.com/Mik0-T3ch/Neural_Networks" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40">
-    </a>&nbsp;
-    <a href="https://github.com/Mik0-T3ch/Neural_Networks" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40">
-    </a>&nbsp;
-    <a href="https://github.com/Mik0-T3ch/Neural_Networks" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40">
-    </a>&nbsp;
-  </p>
+<h3>🤖 &nbsp;Machine Learning</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,tensorflow&perline=8" />
+  </a>
+</p>
 
-  <h3>💻 &nbsp;Frontend básico</h3>
-  <p>
-    <a href="https://github.com/Mik0-T3ch" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40">
-    </a>&nbsp;
-    <a href="https://github.com/Mik0-T3ch" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40">
-    </a>&nbsp;
-    <a href="https://github.com/Mik0-T3ch" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40">
-    </a>&nbsp;
-    <a href="https://github.com/Mik0-T3ch" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40">
-    </a>&nbsp;
-    <a href="https://github.com/Mik0-T3ch" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40">
-    </a>
-  </p>
+<h3>💻 &nbsp;Frontend</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,astro,tailwind,bootstrap&perline=8" />
+  </a>
+</p>
 
-### 🔐 Ciberseguridad
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000000?style=flat-square)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+<h3>⚙️ &nbsp;Backend</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,django,go&perline=8" />
+  </a>
+</p>
 
+<h3>🗄️ &nbsp;Bases de Datos</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,firebase&perline=8" />
+  </a>
+</p>
+
+<h3>🐳 &nbsp;DevOps & Tools</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode&perline=8" />
+  </a>
+</p>
+
+<h3>🔐 &nbsp;Ciberseguridad</h3>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,linux,bash&perline=8" />
+  </a>
+</p>
+
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7?logo=wireshark&style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?logo=burpsuite&style=flat-square&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?logo=owasp&style=flat-square&logoColor=white)
 
 ## 📈 Activity Graph
 
@@ -78,3 +83,4 @@
 1. **Detector de phishing con ML** - Clasificador de URLs sospechosas
 2. **Dashboard de ciberamenazas** - Visualización de ataques en tiempo real
 3. **WebApp segura** - Implementación de OAuth 2.0 + React
+
