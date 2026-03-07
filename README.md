@@ -1,10 +1,58 @@
-🚀 **Programador Junior** | 💻 **Frontend Developer** | 🧠 **Aprendiz de Machine Learning**  
-🔐 **Entusiasta de Ciberseguridad** con habilidades en Ethical Hacking
+## 👨‍💻 Sobre mí
+
+<p>
+  🚀 <strong>Programador Junior</strong> | 💻 <strong>Frontend Developer</strong> | 🧠 <strong>Aprendiz de Machine Learning</strong><br>
+  🔐 <strong>Entusiasta de Ciberseguridad</strong> con habilidades en Ethical Hacking
+</p>
+
+<hr>
 
 ## 🌟 Mis Pasiones
-- 🤖 Automatización inteligente con ML
-- 🎨 Creación de interfaces impactantes
-- 🔍 Análisis de vulnerabilidades web
+
+<h3>🤖 Automatización inteligente con ML</h3>
+<table>
+  <tr>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=py" />
+    </td>
+    <td>
+      Crear soluciones que automaticen tareas, analicen datos y aprovechen el
+      <strong>Machine Learning</strong> para detectar patrones, optimizar
+      procesos y construir herramientas inteligentes.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3>🎨 Creación de interfaces impactantes</h3>
+<table>
+  <tr>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=astro" />
+    </td>
+    <td>
+      Diseñar experiencias web modernas, limpias y funcionales, enfocadas en la
+      <strong>usabilidad</strong>, el rendimiento y una presentación visual atractiva.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3>🔍 Análisis de vulnerabilidades web</h3>
+<table>
+  <tr>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=kali" />
+    </td>
+    <td>
+      Explorar la <strong>seguridad de aplicaciones web</strong>, identificar
+      vulnerabilidades y comprender cómo funcionan los ataques para fortalecer
+      la protección de sistemas y mejorar las defensas.
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Stack Tecnológico
 
