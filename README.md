@@ -128,7 +128,15 @@
 </div>
 
 ## ⚡ Proyectos Destacados
-1. **Detector de phishing con ML** - Clasificador de URLs sospechosas
-2. **Dashboard de ciberamenazas** - Visualización de ataques en tiempo real
-3. **WebApp segura** - Implementación de OAuth 2.0 + React
 
+### 🛡 Detector de phishing con ML
+Clasificador de **URLs sospechosas** utilizando técnicas de *Machine Learning* para detectar posibles ataques de phishing.
+
+🔗 [Ver repositorio](https://github.com/Mik0-T3ch/MLphish)
+
+---
+
+### 🧠 NeuroLearnNet
+Proyecto enfocado en el estudio y experimentación con **redes neuronales**, explorando conceptos fundamentales de *Machine Learning* y su implementación práctica.
+
+🔗 [Ver repositorio](https://github.com/Mik0-T3ch/NeuroLearnNet)
