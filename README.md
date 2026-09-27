@@ -1,7 +1,7 @@
 ## 👨‍💻 Sobre mí
 
 <p>
-  🚀 <strong>Programador Junior</strong> | 💻 <strong>Frontend Developer</strong> | 🧠 <strong>Aprendiz de Machine Learning</strong><br>
+  🚀 <strong>Programador Junior</strong> | 💻 <strong>Backend Developer</strong> | 🧠 <strong>Aprendiz de Machine Learning</strong><br>
   🔐 <strong>Entusiasta de Ciberseguridad</strong> con habilidades en Ethical Hacking
 </p>
 
